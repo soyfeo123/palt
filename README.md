@@ -15,3 +15,9 @@ After that, you can just put this line into any script to access Palt:
 ```
 local Palt = require(game.ReplicatedStorage.Palt)
 ```
+
+For examples/documentation, please see the Wiki.
+
+# Credits
+- Facebook/Meta for the original React
+- ChatGPT for small bug-fixing/ideas
